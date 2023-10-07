@@ -97,6 +97,32 @@ video {
   --spacing: 1rem;
   --spacing-l: 1.5rem;
   --spacing-xl: 1.75rem;
+
+   /* Primary colors */
+   --royal-blue: #00539C;
+   --peach: #EEA47F;
+ 
+   /* Color variants */
+   --royal-blue-lightest: #3385D6; /* Lightest shade of Royal Blue */
+   --royal-blue-light: #66A9F3; /* Light shade of Royal Blue */
+   --royal-blue-dark: #003A70; /* Darker shade of Royal Blue */
+   --royal-blue-darkest: #00224E; /* Darkest shade of Royal Blue */
+ 
+   --peach-lightest: #F1C3A1; /* Lightest shade of Peach */
+   --peach-light: #F6D5C6; /* Light shade of Peach */
+   --peach-dark: #D68E6A; /* Darker shade of Peach */
+   --peach-darkest: #B36845; /* Darkest shade of Peach */
+ 
+   --color-accent-1: #FF5733; /* Accent color 1 */
+   --color-accent-2: #6F63FF; /* Accent color 2 */
+   --color-accent-3: #33FF88; /* Accent color 3 */
+
+   /* Gray colors */
+  --gray-lightest: #F8F8F8; /* Lightest gray */
+  --gray-light: #E5E5E5; /* Light gray */
+  --gray: #CCCCCC; /* Medium gray */
+  --gray-dark: #999999; /* Dark gray */
+  --gray-darkest: #333333; /* Darkest gray */
 }
 
 
