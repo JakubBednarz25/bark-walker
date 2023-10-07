@@ -1,0 +1,13 @@
+.header {
+  background-color: rgb(206, 127, 127);
+  display:flex;
+  align-items:center;
+  justify-content:space-around;
+  a {
+    color: black;
+  }
+  .businessName {
+    font-weight:600;
+    font-size: 20px;
+  }
+}
